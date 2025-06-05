@@ -1,24 +1,35 @@
 
 # ✅ Task Manager App
 
-A modern, responsive task manager built with HTML, CSS, JavaScript, Bootstrap, and Chart.js.
+A simple and clean web-based task manager that helps you add, track, and visualize tasks in real-time. It features a responsive layout, progress indicators, and a pie chart for task stats.
 
 ## 🚀 Features
 
-- Add, delete, and track tasks by type
-- Visualize progress with a donut chart
-- Separate styles for completed and in-progress tasks
-- Responsive and clean UI
+- Add new tasks with category and progress level  
+- Visual progress chart using Chart.js  
+- Responsive and modern UI with Bootstrap  
+- Differentiates completed vs. in-progress tasks
 
-## 📂 Files
+## 🛠️ Tech Stack
 
-- `index.html` – Main HTML file
-- `style.css` – Styling and theme
-- `script.js` – Logic and interactions
+- HTML, CSS, JavaScript  
+- Bootstrap 5  
+- Chart.js  
+- Font Awesome
+
+## 📂 Project Structure
+📁 task-tracker/
+├── index.html # Main HTML structure
+├── style.css # Custom styling
+└── README.md # This file
 
 
-## 📦 Usage
+## 🌐 Live Demo
+View it on GitHub Pages (https://bego-net.github.io/-Task-Manager/)
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/task-manager.git
+
+
+
+
+
+
